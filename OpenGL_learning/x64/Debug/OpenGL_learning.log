@@ -1,0 +1,80 @@
+﻿C:\Program Files\VS\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(OpenGL_mvcnn.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+x64\Debug\mesh.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+advance.obj : error LNK2019: 无法解析的外部符号 __imp_glBindTexture，该符号在函数 "unsigned int __cdecl generateAttachmentTexture(unsigned char,unsigned char)" (?generateAttachmentTexture@@YAIEE@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glBindTexture
+mesh.obj : error LNK2001: 无法解析的外部符号 __imp_glBindTexture
+advance.obj : error LNK2019: 无法解析的外部符号 __imp_glGenTextures，该符号在函数 "unsigned int __cdecl generateAttachmentTexture(unsigned char,unsigned char)" (?generateAttachmentTexture@@YAIEE@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glGenTextures
+advance.obj : error LNK2019: 无法解析的外部符号 __imp_glTexImage2D，该符号在函数 "unsigned int __cdecl generateAttachmentTexture(unsigned char,unsigned char)" (?generateAttachmentTexture@@YAIEE@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glTexImage2D
+advance.obj : error LNK2019: 无法解析的外部符号 __imp_glTexParameteri，该符号在函数 "unsigned int __cdecl generateAttachmentTexture(unsigned char,unsigned char)" (?generateAttachmentTexture@@YAIEE@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glTexParameteri
+advance.obj : error LNK2019: 无法解析的外部符号 SOIL_load_image，该符号在函数 "unsigned int __cdecl loadCubemap(class std::vector<char const *,class std::allocator<char const *> >)" (?loadCubemap@@YAIV?$vector@PEBDV?$allocator@PEBD@std@@@std@@@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 SOIL_load_image
+advance.obj : error LNK2019: 无法解析的外部符号 SOIL_free_image_data，该符号在函数 "unsigned int __cdecl loadTexture(char const *)" (?loadTexture@@YAIPEBD@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 SOIL_free_image_data
+advance.obj : error LNK2001: 无法解析的外部符号 __glewActiveTexture
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewActiveTexture
+advance.obj : error LNK2001: 无法解析的外部符号 __glewGenerateMipmap
+main.obj : error LNK2001: 无法解析的外部符号 __glewGenerateMipmap
+advance.obj : error LNK2001: 无法解析的外部符号 __glewTexImage2DMultisample
+Init_window.obj : error LNK2019: 无法解析的外部符号 __imp_glBlendFunc，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 __imp_glCullFace，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 __imp_glDepthFunc，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 __imp_glEnable，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 __imp_glViewport，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 glewInit，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 glfwInit，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 glfwTerminate，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 glfwTerminate
+Init_window.obj : error LNK2019: 无法解析的外部符号 glfwWindowHint，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 glfwCreateWindow，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 glfwGetFramebufferSize，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 glfwSetInputMode，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 glfwSetKeyCallback，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 glfwSetCursorPosCallback，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2019: 无法解析的外部符号 glfwMakeContextCurrent，该符号在函数 "public: __cdecl Window::Window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (??0Window@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) 中被引用
+Init_window.obj : error LNK2001: 无法解析的外部符号 glewExperimental
+call_back.obj : error LNK2019: 无法解析的外部符号 glfwSetWindowShouldClose，该符号在函数 "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPEAUGLFWwindow@@HHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glClear，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glClearColor，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwWindowShouldClose，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwPollEvents，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetTime，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwSwapBuffers，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ)，该符号在函数 "private: void __cdecl Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadModel@Model@@AEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ)，该符号在函数 "private: void __cdecl Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadModel@Model@@AEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z)，该符号在函数 "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ)，该符号在函数 "private: void __cdecl Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadModel@Model@@AEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 aiGetMaterialTextureCount，该符号在函数 "public: unsigned int __cdecl aiMaterial::GetTextureCount(enum aiTextureType)const " (?GetTextureCount@aiMaterial@@QEBAIW4aiTextureType@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 aiGetMaterialTexture，该符号在函数 "public: enum aiReturn __cdecl aiMaterial::GetTexture(enum aiTextureType,unsigned int,struct aiString *,enum aiTextureMapping *,unsigned int *,float *,enum aiTextureOp *,enum aiTextureMapMode *)const " (?GetTexture@aiMaterial@@QEBA?AW4aiReturn@@W4aiTextureType@@IPEAUaiString@@PEAW4aiTextureMapping@@PEAIPEAMPEAW4aiTextureOp@@PEAW4aiTextureMapMode@@@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 __glewGetUniformLocation
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewGetUniformLocation
+main.obj : error LNK2001: 无法解析的外部符号 __glewUniform3f
+main.obj : error LNK2001: 无法解析的外部符号 __glewUniformMatrix4fv
+mesh.obj : error LNK2019: 无法解析的外部符号 __imp_glDrawElements，该符号在函数 "public: void __cdecl Mesh::Draw(class Shader)" (?Draw@Mesh@@QEAAXVShader@@@Z) 中被引用
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewBindBuffer
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewBufferData
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewGenBuffers
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewEnableVertexAttribArray
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewUniform1f
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewVertexAttribPointer
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewBindVertexArray
+mesh.obj : error LNK2001: 无法解析的外部符号 __glewGenVertexArrays
+shader.obj : error LNK2019: 无法解析的外部符号 __imp_glGetIntegerv，该符号在函数 "public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z) 中被引用
+shader.obj : error LNK2001: 无法解析的外部符号 __glewAttachShader
+shader.obj : error LNK2001: 无法解析的外部符号 __glewCompileShader
+shader.obj : error LNK2001: 无法解析的外部符号 __glewCreateProgram
+shader.obj : error LNK2001: 无法解析的外部符号 __glewCreateShader
+shader.obj : error LNK2001: 无法解析的外部符号 __glewDeleteShader
+shader.obj : error LNK2001: 无法解析的外部符号 __glewGetProgramInfoLog
+shader.obj : error LNK2001: 无法解析的外部符号 __glewGetProgramiv
+shader.obj : error LNK2001: 无法解析的外部符号 __glewGetShaderInfoLog
+shader.obj : error LNK2001: 无法解析的外部符号 __glewGetShaderiv
+shader.obj : error LNK2001: 无法解析的外部符号 __glewLinkProgram
+shader.obj : error LNK2001: 无法解析的外部符号 __glewShaderSource
+shader.obj : error LNK2001: 无法解析的外部符号 __glewUseProgram
+D:\OpenGL\Source_lib\libs\glew32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\OpenGL\Source_lib\libs\glew32s.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\OpenGL\Source_lib\libs\glfw3.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Documents\Desktop\Junior\Temp\OpenGL_learning\x64\Debug\OpenGL_learning.exe : fatal error LNK1120: 63 个无法解析的外部命令

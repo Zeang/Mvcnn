@@ -1,0 +1,134 @@
+﻿C:\Program Files\VS\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(OpenGL_learning.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  advance.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+f:\githubproject\mvcnn\opengl_learning\advance.cpp(47): warning C4244: “参数”: 从“const float”转换到“GLsizei”，可能丢失数据
+f:\githubproject\mvcnn\opengl_learning\advance.cpp(49): warning C4244: “参数”: 从“const float”转换到“GLsizei”，可能丢失数据
+f:\githubproject\mvcnn\opengl_learning\advance.cpp(94): warning C4244: “参数”: 从“const float”转换到“GLsizei”，可能丢失数据
+  global.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Init_window.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  call_back.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+f:\githubproject\mvcnn\opengl_learning\call_back.cpp(27): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\githubproject\mvcnn\opengl_learning\call_back.cpp(28): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\githubproject\mvcnn\opengl_learning\call_back.cpp(35): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\githubproject\mvcnn\opengl_learning\call_back.cpp(36): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\githubproject\mvcnn\opengl_learning\call_back.cpp(37): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\githubproject\mvcnn\opengl_learning\call_back.cpp(38): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  main.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+f:\githubproject\mvcnn\opengl_learning\main.cpp(22): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+f:\githubproject\mvcnn\opengl_learning\main.cpp(33): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+f:\githubproject\mvcnn\opengl_learning\main.cpp(66): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  mesh.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+f:\githubproject\mvcnn\opengl_learning\mesh.cpp(59): warning C4244: “参数”: 从“GLuint”转换到“GLfloat”，可能丢失数据
+  mesh.h
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  shader.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  正在生成代码...
+Debug\mesh.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  SOIL.lib(SOIL.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+Debug\mesh.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+SOIL.lib(SOIL.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“SOIL.lib(SOIL.obj)”或在“F:\GithubProject\MVCNN\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“SOIL.lib(image_helper.obj)”或在“F:\GithubProject\MVCNN\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“SOIL.lib(stb_image_aug.obj)”或在“F:\GithubProject\MVCNN\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“SOIL.lib(image_DXT.obj)”或在“F:\GithubProject\MVCNN\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“F:\GithubProject\MVCNN\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  OpenGL_learning.vcxproj -> F:\GithubProject\MVCNN\Debug\OpenGL_mvcnn.exe
